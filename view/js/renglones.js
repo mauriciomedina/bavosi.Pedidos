@@ -83,13 +83,12 @@ function recalcular(input) {
 
 function getArticulo(input) {
     var sufijo = input.id.substring(input.id.indexOf("_"));
+
     $.post(
-        "data.php",
+        "phpscripts/getArticulo.php",
         {codigo: $("#buscar"+sufijo).val()},
         function(data){
-            alert(data);
-            var obj = jQuery.parseJSON(data);
-            alert(obj.codigo);
+            var obj = $.parseJSON(data);
             if(obj.codigo){
                 $("#buscar"+sufijo).val("");
                 $("#codigo"+sufijo).val(obj.codigo);
@@ -109,7 +108,7 @@ function getArticulo(input) {
 
 function getArticuloModal(codArticulo) {
     $.post(
-        "data.php",
+        "phpscripts/getArticulo.php",
         {codigo: codArticulo},
         function(data){
             var obj = jQuery.parseJSON(data);

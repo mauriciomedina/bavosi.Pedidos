@@ -5,8 +5,6 @@
  * Date: 29/01/2016
  * Time: 07:46 PM
  */
-$dataJSON = json_encode("");
-
 mssql_connect('192.168.1.16','sa','savote');
 $res = mssql_query("use sav; select la.articulo_id codigo, a.DESCRIPCIO descripcion, la.precioSinIVA precio
                     from ListaDePrecio l
@@ -15,11 +13,16 @@ $res = mssql_query("use sav; select la.articulo_id codigo, a.DESCRIPCIO descripc
                     where l.activo = '1'
                     and la.articulo_id = '".$_POST["codigo"]."'");
 
-$array = array();
+$array = null;
 
-while($row = mssql_fetch_assoc($res)){
-    $array[] = $row;
+while($row = mssql_fetch_array($res)){
+    $array = array(   "codigo" => $row["codigo"],
+                        "descripcion" => $row["descripcion"],
+                        "precio" => $row["precio"] );
 }
-$dataJSON = json_encode($array);
 
-echo $dataJSON;
+if(!is_null($array)) {
+    echo json_encode($array);
+} else {
+    echo json_encode("");
+}
