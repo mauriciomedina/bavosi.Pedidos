@@ -17,7 +17,7 @@ class HomeController extends Controller {
         unset($this);
     }
 
-    function bienvenida(){
+    public function bienvenidaView(){
         $pagina = $this->loadTemplate('BAVOSI | Pedidos');
         $html = $this->loadPage('view/modules/home/home.html');
         $pagina = $this->replaceContent('/\{CONTENT_PAGE\}/ms' ,$html , $pagina);

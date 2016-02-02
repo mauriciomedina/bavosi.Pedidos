@@ -20,7 +20,7 @@ class Usuario {
 
     public function check($user, $password) {
         if($user != "" && $password != ""){
-            $res = DaoPedidos::getDb()->getResultsFromQuery("SELECT COUNT(*) AS COUNT FROM [SAVX].[dbo].[Usuario] WHERE borrado = 'N' AND usuario = '$user' and password = '$password'");
+            $res = DaoPedidos::getDb()->getResultsFromQuery("SELECT COUNT(*) AS COUNT FROM [SAVX].[dbo].[Usuario] WHERE isnull(borrado,'N') = 'N' AND usuario = '$user' and password = '$password'");
             foreach($res as $check){
                 if($check['COUNT'] == 1){
                     $this->get($user);
@@ -50,5 +50,53 @@ class Usuario {
                 }
             }
         }
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getEmail()
+    {
+        return $this->email;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getNombre()
+    {
+        return $this->nombre;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getPassword()
+    {
+        return $this->password;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getRol()
+    {
+        return $this->rol;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getUser()
+    {
+        return $this->user;
     }
 } 
