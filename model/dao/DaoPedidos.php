@@ -7,7 +7,7 @@
  */
 require_once('DataBase.php');
 require_once($_SERVER["DOCUMENT_ROOT"] . "/bavosi.Pedidos/config.php");
-class DaoSAVX {
+class DaoPedidos {
     private $db;
     private static $instance;
 
@@ -17,7 +17,7 @@ class DaoSAVX {
 
     private function getDao($db_hostname, $db_username, $db_pass, $db_name) {
         if(is_null(self::$instance)) {
-            self::$instance = new DaoSAVX($db_hostname, $db_username, $db_pass, $db_name);
+            self::$instance = new DaoPedidos($db_hostname, $db_username, $db_pass, $db_name);
         }
         return self::$instance;
     }

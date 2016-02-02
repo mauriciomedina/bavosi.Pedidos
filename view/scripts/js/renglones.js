@@ -85,7 +85,7 @@ function getArticulo(input) {
     var sufijo = input.id.substring(input.id.indexOf("_"));
 
     $.post(
-        "phpscripts/getArticulo.php",
+        "../php/getArticulo.php",
         {codigo: $("#buscar"+sufijo).val()},
         function(data){
             var obj = $.parseJSON(data);
@@ -108,7 +108,7 @@ function getArticulo(input) {
 
 function getArticuloModal(codArticulo) {
     $.post(
-        "phpscripts/getArticulo.php",
+        "../php/getArticulo.php",
         {codigo: codArticulo},
         function(data){
             var obj = jQuery.parseJSON(data);

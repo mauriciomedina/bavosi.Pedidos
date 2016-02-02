@@ -2,105 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3287b4a5-7a08-4990-a56f-b286ceb4b243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/sections/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/modules/pedido.php" />
-      <change type="DELETED" beforePath="C:\AppServ\www\bavosi.Pedidos\abm.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\AppServ\www\bavosi.Pedidos\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\AppServ\www\bavosi.Pedidos\minor.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\AppServ\www\bavosi.Pedidos\modules\footer.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\AppServ\www\bavosi.Pedidos\pedido.php" afterPath="" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\animate.css" afterPath="$PROJECT_DIR$/view/css/animate.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\bootstrap-theme.css" afterPath="$PROJECT_DIR$/view/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/view/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/view/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/view/css/bootstrap-theme.min.css.map" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\bootstrap-yeti.min.css" afterPath="$PROJECT_DIR$/view/css/bootstrap-yeti.min.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\bootstrap.css" afterPath="$PROJECT_DIR$/view/css/bootstrap.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\bootstrap.css.map" afterPath="$PROJECT_DIR$/view/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/view/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\bootstrap.min.css.map" afterPath="$PROJECT_DIR$/view/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\font-awesome.css" afterPath="$PROJECT_DIR$/view/css/font-awesome.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/view/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\1.png" afterPath="$PROJECT_DIR$/view/css/patterns/1.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\2.png" afterPath="$PROJECT_DIR$/view/css/patterns/2.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\3.png" afterPath="$PROJECT_DIR$/view/css/patterns/3.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\4.png" afterPath="$PROJECT_DIR$/view/css/patterns/4.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\5.png" afterPath="$PROJECT_DIR$/view/css/patterns/5.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\6.png" afterPath="$PROJECT_DIR$/view/css/patterns/6.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\7.png" afterPath="$PROJECT_DIR$/view/css/patterns/7.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\congruent_pentagon.png" afterPath="$PROJECT_DIR$/view/css/patterns/congruent_pentagon.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\header-profile-skin-1.png" afterPath="$PROJECT_DIR$/view/css/patterns/header-profile-skin-1.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\header-profile-skin-2.png" afterPath="$PROJECT_DIR$/view/css/patterns/header-profile-skin-2.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\header-profile-skin-3.png" afterPath="$PROJECT_DIR$/view/css/patterns/header-profile-skin-3.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\header-profile.png" afterPath="$PROJECT_DIR$/view/css/patterns/header-profile.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\otis_redding.png" afterPath="$PROJECT_DIR$/view/css/patterns/otis_redding.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\shattered.png" afterPath="$PROJECT_DIR$/view/css/patterns/shattered.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\patterns\triangular.png" afterPath="$PROJECT_DIR$/view/css/patterns/triangular.png" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\style.css" afterPath="$PROJECT_DIR$/view/css/style.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\css\style.min.css" afterPath="$PROJECT_DIR$/view/css/style.min.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\data.php" afterPath="$PROJECT_DIR$/view/phpscripts/getArticulo.php" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\css\font-awesome.css" afterPath="$PROJECT_DIR$/view/font-awesome/css/font-awesome.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/view/font-awesome/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/view/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/view/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/view/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/view/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/view/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\fonts\fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/view/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\animated.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/animated.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\bordered-pulled.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\core.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/core.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\fixed-width.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/fixed-width.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\font-awesome.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/font-awesome.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\icons.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/icons.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\larger.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/larger.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\list.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/list.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\mixins.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/mixins.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\path.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/path.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\rotated-flipped.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/rotated-flipped.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\stacked.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/stacked.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\less\variables.less" afterPath="$PROJECT_DIR$/view/font-awesome/less/variables.less" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_animated.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_animated.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_bordered-pulled.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_core.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_core.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_fixed-width.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_fixed-width.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_icons.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_icons.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_larger.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_larger.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_list.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_list.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_mixins.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_mixins.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_path.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_path.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_rotated-flipped.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_stacked.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_stacked.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\_variables.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/_variables.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\font-awesome\scss\font-awesome.scss" afterPath="$PROJECT_DIR$/view/font-awesome/scss/font-awesome.scss" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/view/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/view/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/view/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/view/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/view/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/view/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/view/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/view/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/view/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/view/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/view/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\img\Thumbs.db" afterPath="$PROJECT_DIR$/view/img/Thumbs.db" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\img\profile_small.jpg" afterPath="$PROJECT_DIR$/view/img/profile_small.jpg" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\bootstrap.js" afterPath="$PROJECT_DIR$/view/js/bootstrap.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/view/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\inspinia.js" afterPath="$PROJECT_DIR$/view/js/inspinia.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\jquery-2.1.1.js" afterPath="$PROJECT_DIR$/view/js/jquery-2.1.1.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\jquery-ui-1.10.4.min.js" afterPath="$PROJECT_DIR$/view/js/jquery-ui-1.10.4.min.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\jquery-ui.custom.min.js" afterPath="$PROJECT_DIR$/view/js/jquery-ui.custom.min.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\npm.js" afterPath="$PROJECT_DIR$/view/js/npm.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\plugins\metisMenu\jquery.metisMenu.js" afterPath="$PROJECT_DIR$/view/js/plugins/metisMenu/jquery.metisMenu.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\plugins\pace\pace.min.js" afterPath="$PROJECT_DIR$/view/js/plugins/pace/pace.min.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\plugins\slimscroll\jquery.slimscroll.js" afterPath="$PROJECT_DIR$/view/js/plugins/slimscroll/jquery.slimscroll.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\plugins\slimscroll\jquery.slimscroll.min.js" afterPath="$PROJECT_DIR$/view/js/plugins/slimscroll/jquery.slimscroll.min.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\js\renglones.js" afterPath="$PROJECT_DIR$/view/js/renglones.js" />
-      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\modules\sidebar.php" afterPath="$PROJECT_DIR$/view/sections/sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/Controller.php" />
+      <change type="DELETED" beforePath="C:\AppServ\www\bavosi.Pedidos\controller\class.mvc.php" afterPath="" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\animate.css" afterPath="$PROJECT_DIR$/view/content/css/animate.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\bootstrap-theme.css" afterPath="$PROJECT_DIR$/view/content/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/view/content/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/view/content/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/view/content/css/bootstrap-theme.min.css.map" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\bootstrap-yeti.min.css" afterPath="$PROJECT_DIR$/view/content/css/bootstrap-yeti.min.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\bootstrap.css" afterPath="$PROJECT_DIR$/view/content/css/bootstrap.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\bootstrap.css.map" afterPath="$PROJECT_DIR$/view/content/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/view/content/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\bootstrap.min.css.map" afterPath="$PROJECT_DIR$/view/content/css/bootstrap.min.css.map" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\font-awesome.css" afterPath="$PROJECT_DIR$/view/content/css/font-awesome.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/view/content/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\1.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/1.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\2.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/2.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\3.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/3.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\4.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/4.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\5.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/5.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\6.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/6.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\7.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/7.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\congruent_pentagon.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/congruent_pentagon.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\header-profile-skin-1.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/header-profile-skin-1.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\header-profile-skin-2.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/header-profile-skin-2.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\header-profile-skin-3.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/header-profile-skin-3.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\header-profile.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/header-profile.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\otis_redding.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/otis_redding.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\shattered.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/shattered.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\patterns\triangular.png" afterPath="$PROJECT_DIR$/view/content/css/patterns/triangular.png" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\pedido.css" afterPath="$PROJECT_DIR$/view/content/css/pedido.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\style.css" afterPath="$PROJECT_DIR$/view/content/css/style.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\css\style.min.css" afterPath="$PROJECT_DIR$/view/content/css/style.min.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\css\font-awesome.css" afterPath="$PROJECT_DIR$/view/content/font-awesome/css/font-awesome.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/view/content/font-awesome/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/view/content/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/view/content/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/view/content/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/view/content/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/view/content/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\fonts\fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/view/content/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\animated.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/animated.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\bordered-pulled.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\core.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/core.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\fixed-width.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/fixed-width.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\font-awesome.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/font-awesome.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\icons.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/icons.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\larger.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/larger.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\list.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/list.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\mixins.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/mixins.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\path.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/path.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\rotated-flipped.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\stacked.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/stacked.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\less\variables.less" afterPath="$PROJECT_DIR$/view/content/font-awesome/less/variables.less" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_animated.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_animated.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_bordered-pulled.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_core.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_core.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_fixed-width.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_icons.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_icons.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_larger.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_larger.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_list.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_list.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_mixins.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_path.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_path.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_rotated-flipped.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_stacked.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\_variables.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/_variables.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\font-awesome\scss\font-awesome.scss" afterPath="$PROJECT_DIR$/view/content/font-awesome/scss/font-awesome.scss" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/view/content/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/view/content/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/view/content/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/view/content/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/view/content/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/view/content/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/view/content/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/view/content/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/view/content/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/view/content/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/view/content/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\img\Thumbs.db" afterPath="$PROJECT_DIR$/view/content/img/Thumbs.db" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\img\profile_small.jpg" afterPath="$PROJECT_DIR$/view/content/img/profile_small.jpg" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\bootstrap.js" afterPath="$PROJECT_DIR$/view/scripts/js/bootstrap.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/view/scripts/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\inspinia.js" afterPath="$PROJECT_DIR$/view/scripts/js/inspinia.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\jquery-2.1.1.js" afterPath="$PROJECT_DIR$/view/scripts/js/jquery-2.1.1.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\jquery-ui-1.10.4.min.js" afterPath="$PROJECT_DIR$/view/scripts/js/jquery-ui-1.10.4.min.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\jquery-ui.custom.min.js" afterPath="$PROJECT_DIR$/view/scripts/js/jquery-ui.custom.min.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\npm.js" afterPath="$PROJECT_DIR$/view/scripts/js/npm.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\plugins\metisMenu\jquery.metisMenu.js" afterPath="$PROJECT_DIR$/view/scripts/js/plugins/metisMenu/jquery.metisMenu.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\plugins\pace\pace.min.js" afterPath="$PROJECT_DIR$/view/scripts/js/plugins/pace/pace.min.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\plugins\slimscroll\jquery.slimscroll.js" afterPath="$PROJECT_DIR$/view/scripts/js/plugins/slimscroll/jquery.slimscroll.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\plugins\slimscroll\jquery.slimscroll.min.js" afterPath="$PROJECT_DIR$/view/scripts/js/plugins/slimscroll/jquery.slimscroll.min.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\js\renglones.js" afterPath="$PROJECT_DIR$/view/scripts/js/renglones.js" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\modules\bienvenida.html" afterPath="$PROJECT_DIR$/view/modules/home/home.html" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\modules\pedido.php" afterPath="$PROJECT_DIR$/view/modules/pedidos/pedido.php" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\phpscripts\getArticulo.php" afterPath="$PROJECT_DIR$/view/scripts/php/getArticulo.php" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\sections\footer.html" afterPath="$PROJECT_DIR$/view/shared/footer.html" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\sections\header.html" afterPath="$PROJECT_DIR$/view/shared/header.html" />
+      <change type="MOVED" beforePath="C:\AppServ\www\bavosi.Pedidos\view\sections\sidebar.html" afterPath="$PROJECT_DIR$/view/shared/sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/dao/DaoPedidos.php" afterPath="$PROJECT_DIR$/model/dao/DaoPedidos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/Usuario.php" afterPath="$PROJECT_DIR$/model/Usuario.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/page.html" afterPath="$PROJECT_DIR$/view/page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bavosi.Pedidos.iws" />
@@ -126,25 +128,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DaoPedidos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/dao/DaoPedidos.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="646">
-              <caret line="30" column="103" selection-start-line="30" selection-start-column="103" selection-end-line="30" selection-end-column="103" />
+            <state vertical-scroll-proportion="0.18106508" vertical-offset="0" max-vertical-offset="845">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="e#6#170#0#PHP" expanded="true" />
+                <marker date="1454421834854" expanded="true" signature="479:531" placeholder="SELECT CATAL..SCHEMATA..." />
+                <marker date="1454421834854" expanded="true" signature="584:641" placeholder="SELECT CATAL..SCHEMATA..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="816">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="UsuarioController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/UsuarioController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38224852" vertical-offset="0" max-vertical-offset="845">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
-                <marker date="1454418868791" expanded="true" signature="461:513" placeholder="SELECT CATAL..SCHEMATA..." />
-                <marker date="1454418868791" expanded="true" signature="566:623" placeholder="SELECT CATAL..SCHEMATA..." />
+                <element signature="e#6#92#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="544">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="renglones.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/scripts/js/renglones.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3230">
+              <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-27.923077" vertical-offset="294" max-vertical-offset="1139">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -185,21 +230,26 @@
         <option value="$PROJECT_DIR$/view/css/pedido.css" />
         <option value="$PROJECT_DIR$/view/sections/pedido.php" />
         <option value="$PROJECT_DIR$/view/page.php" />
-        <option value="$PROJECT_DIR$/view/page.html" />
         <option value="$PROJECT_DIR$/view/sections/header.html" />
         <option value="$PROJECT_DIR$/view/modules/bienvenida.html" />
         <option value="$PROJECT_DIR$/view/sections/sidebar.html" />
         <option value="$PROJECT_DIR$/model/class.db.php" />
         <option value="$PROJECT_DIR$/model/class.usuario.php" />
-        <option value="$PROJECT_DIR$/controller/class.mvc.php" />
-        <option value="$PROJECT_DIR$/model/Usuario.php" />
         <option value="$PROJECT_DIR$/model/DataBase.php" />
         <option value="$PROJECT_DIR$/model/dao/DataBase.php" />
         <option value="$PROJECT_DIR$/model/dao/DaoSAVX.php" />
         <option value="$PROJECT_DIR$/model/dao/DaoTango.php" />
         <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/controller/class.mvc.php" />
+        <option value="$PROJECT_DIR$/controller/MVC.php" />
         <option value="$PROJECT_DIR$/model/dao/DaoPedidos.php" />
+        <option value="$PROJECT_DIR$/model/Usuario.php" />
+        <option value="$PROJECT_DIR$/controller/UsuarioController.php" />
+        <option value="$PROJECT_DIR$/view/page.html" />
+        <option value="$PROJECT_DIR$/view/scripts/js/renglones.js" />
+        <option value="$PROJECT_DIR$/controller/Controller.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/controller/HomeController.php" />
       </list>
     </option>
   </component>
@@ -282,7 +332,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sections" />
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pedidos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -301,6 +355,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bavosi.Pedidos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bavosi.Pedidos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -370,11 +446,11 @@
       <recent name="C:\AppServ\www\bavosi.Pedidos\model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AppServ\www\bavosi.Pedidos\view\modules\pedidos" />
+      <recent name="C:\AppServ\www\bavosi.Pedidos\view\modules\home" />
+      <recent name="C:\AppServ\www\bavosi.Pedidos\view\scripts" />
+      <recent name="C:\AppServ\www\bavosi.Pedidos\view\content" />
       <recent name="C:\AppServ\www\bavosi.Pedidos\view\modules" />
-      <recent name="C:\AppServ\www\bavosi.Pedidos\view\sections" />
-      <recent name="C:\AppServ\www\bavosi.Pedidos" />
-      <recent name="C:\AppServ\www\bavosi.Pedidos\view" />
-      <recent name="C:\AppServ\www\bavosi.Pedidos\phpscripts" />
     </key>
   </component>
   <component name="RunManager">
@@ -423,8 +499,9 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -435,7 +512,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -464,7 +540,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/view/sections/sidebar.html">
+    <entry file="file://$PROJECT_DIR$/view/shared/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="663">
           <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
@@ -480,7 +556,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/modules/pedido.php">
+    <entry file="file://$PROJECT_DIR$/view/modules/pedidos/pedido.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1172" max-vertical-offset="7021">
           <caret line="99" column="26" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
@@ -488,7 +564,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/phpscripts/getArticulo.php">
+    <entry file="file://$PROJECT_DIR$/view/scripts/php/getArticulo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -498,7 +574,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/js/renglones.js">
+    <entry file="file://$PROJECT_DIR$/view/scripts/js/renglones.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="3247">
           <caret line="91" column="30" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
@@ -506,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/sections/footer.html">
+    <entry file="file://$PROJECT_DIR$/view/shared/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="238">
           <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
@@ -522,7 +598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/phpscripts/getArticulo.php">
+    <entry file="file://$PROJECT_DIR$/view/scripts/php/getArticulo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14066194" vertical-offset="0" max-vertical-offset="846">
           <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
@@ -532,15 +608,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/js/renglones.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6926659" vertical-offset="1275" max-vertical-offset="3230">
-          <caret line="110" column="31" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/sections/footer.html">
+    <entry file="file://$PROJECT_DIR$/view/shared/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -548,7 +616,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/css/style.css">
+    <entry file="file://$PROJECT_DIR$/view/content/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="137683">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -556,7 +624,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/modules/pedido.php">
+    <entry file="file://$PROJECT_DIR$/view/modules/pedidos/pedido.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="5134">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
@@ -564,7 +632,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/css/pedido.css">
+    <entry file="file://$PROJECT_DIR$/view/content/css/pedido.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
           <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
@@ -572,7 +640,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/modules/bienvenida.html">
+    <entry file="file://$PROJECT_DIR$/view/modules/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1607565" vertical-offset="0" max-vertical-offset="846">
           <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
@@ -580,46 +648,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/sections/header.html">
+    <entry file="file://$PROJECT_DIR$/view/shared/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3817967" vertical-offset="0" max-vertical-offset="846">
           <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50236404" vertical-offset="0" max-vertical-offset="846">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/sections/sidebar.html">
+    <entry file="file://$PROJECT_DIR$/view/shared/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5224586" vertical-offset="0" max-vertical-offset="846">
           <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/Usuario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="476">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <marker date="1454417268999" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller/class.mvc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="2040">
-          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
           <folding />
         </state>
       </provider>
@@ -650,19 +690,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/dao/DaoPedidos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="646">
-          <caret line="30" column="103" selection-start-line="30" selection-start-column="103" selection-end-line="30" selection-end-column="103" />
+        <state vertical-scroll-proportion="0.38224852" vertical-offset="0" max-vertical-offset="845">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8792899" vertical-offset="107" max-vertical-offset="1003">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+          <folding>
+            <marker date="1454420941354" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1454420941354" expanded="true" signature="-1:-1" placeholder="SELECT id,no..." />
+            <marker date="1454420941354" expanded="true" signature="-1:-1" placeholder="select id,no..UsuarioXRol..." />
+            <marker date="1454420941354" expanded="true" signature="-1:-1" placeholder="select top 1..." />
+            <marker date="1454420941354" expanded="true" signature="-1:-1" placeholder="select id,no..UsuarioXRol..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/scripts/js/renglones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3230">
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="816">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/UsuarioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.923077" vertical-offset="294" max-vertical-offset="1139">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="544">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38224852" vertical-offset="0" max-vertical-offset="845">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.18106508" vertical-offset="0" max-vertical-offset="845">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <marker date="1454418868791" expanded="true" signature="461:513" placeholder="SELECT CATAL..SCHEMATA..." />
-            <marker date="1454418868791" expanded="true" signature="566:623" placeholder="SELECT CATAL..SCHEMATA..." />
+            <element signature="e#6#170#0#PHP" expanded="true" />
+            <marker date="1454421834854" expanded="true" signature="479:531" placeholder="SELECT CATAL..SCHEMATA..." />
+            <marker date="1454421834854" expanded="true" signature="584:641" placeholder="SELECT CATAL..SCHEMATA..." />
           </folding>
         </state>
       </provider>

@@ -7,10 +7,10 @@
  * INDEX : recibe las peticiones GET / POST y determina que controlador actua
  */
 
+require("controller/HomeController.php");
+$home = new HomeController();
+$home->bienvenida();
 /*
-require("controller/class.mvc.php");
-$mvc = new MVC();
-$mvc->bienvenida();
 
 require($_SERVER['DOCUMENT_ROOT'] . '/bavosi.Pedidos/model/dao/DaoTango.php');
 require($_SERVER['DOCUMENT_ROOT'] . '/bavosi.Pedidos/model/dao/DaoPedidos.php');
