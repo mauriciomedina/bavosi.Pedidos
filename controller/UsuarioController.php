@@ -27,7 +27,7 @@ class UsuarioController extends Controller {
             $_SESSION["nombre"] = $usuario->getNombre();
             $_SESSION["email"] = $usuario->getEmail();
             $_SESSION["rol"] = $usuario->getRol();
-            //return true;
+            return true;
         }else{
             $this->loginView("Nombre de Usuario o Pasword incorrectos.");
         }
