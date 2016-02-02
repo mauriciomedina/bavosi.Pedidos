@@ -18,7 +18,20 @@ class UsuarioController extends Controller {
         unset($this);
     }
 
-    public function loginSession($user,$password){
+    private function loadTemplateLogin($title = 'Sin Titulo')
+    {
+        $pagina = $this->loadPage('view/modules/usuario/login.html');
+        $pagina = $this->replaceContent('/\{TITLE_PAGE\}/ms' ,$title , $pagina);
+        return $pagina;
+    }
+    private function loadTemplateRegistro($title = 'Sin Titulo')
+    {
+        $pagina = $this->loadPage('view/modules/usuario/login.html');
+        $pagina = $this->replaceContent('/\{TITLE_PAGE\}/ms' ,$title , $pagina);
+        return $pagina;
+    }
+
+    public function login($user,$password){
         $usuario = new Usuario();
         if($usuario->check($user,$password)){
             session_start();
@@ -29,11 +42,11 @@ class UsuarioController extends Controller {
             $_SESSION["rol"] = $usuario->getRol();
             return true;
         }else{
-            $this->loginView("Nombre de Usuario o Pasword incorrectos.");
+            $this->viewLogin("Nombre de Usuario o Pasword incorrectos.");
         }
     }
 
-    public function authenticateSession(){
+    public function authenticate(){
         @session_start();
         if(!$_SESSION["authenticate"]) {
             return false;
@@ -42,25 +55,28 @@ class UsuarioController extends Controller {
         return true;
     }
 
-    public function exitSession(){
+    public function logout(){
         session_start();
         session_destroy();
-        // TODO : Exit OK
     }
 
-    protected function loadTemplate($title = 'Sin Titulo')
-    {
-        $pagina = $this->loadPage('view/modules/usuario/login.html');
-        $pagina = $this->replaceContent('/\{TITLE_PAGE\}/ms' ,$title , $pagina);
-        return $pagina;
+    public function registro($user, $nombre, $email, $password, $rol){
+        $usuario = new Usuario();
+        $usuario->add($user, $nombre, $email, $password, $rol);
     }
 
-
-    public function loginView($error = ""){
-        $pagina = $this->loadTemplate('BAVOSI | Pedidos');
-        $html = $this->loadPage('view/modules/home/home.html');
+    public function viewLogin($error = ""){
+        $pagina = $this->loadTemplateLogin('BAVOSI | Pedidos');
         if($error != ""){
-            $pagina = $this->replaceContent('/\{ERROR\}/ms' ,$html , $pagina);
+            $pagina = $this->replaceContent('/\{ERROR\}/ms' ,$error , $pagina);
+        }
+        $this->viewPage($pagina);
+    }
+
+    public function viewRegistro($error = "") {
+        $pagina = $this->loadTemplateRegistro('BAVOSI | Pedidos');
+        if($error != ""){
+            $pagina = $this->replaceContent('/\{ERROR\}/ms' ,$error , $pagina);
         }
         $this->viewPage($pagina);
     }

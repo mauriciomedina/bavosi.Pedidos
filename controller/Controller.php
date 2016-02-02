@@ -7,6 +7,9 @@
  */
 require($_SERVER["DOCUMENT_ROOT"] . "/bavosi.Pedidos/config.php");
 abstract class Controller {
+    private $user;
+    private $rol;
+    private $name;
 
     function __construct() {
     }

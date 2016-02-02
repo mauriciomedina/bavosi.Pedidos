@@ -18,6 +18,10 @@ class Usuario {
     function __construct(){}
     function __destruct() { unset($this); }
 
+    public function add($user, $nombre, $email, $password, $rol) {
+        // TODO : agregar usuario a la BD
+    }
+
     public function check($user, $password) {
         if($user != "" && $password != ""){
             $res = DaoPedidos::getDb()->getResultsFromQuery("SELECT COUNT(*) AS COUNT FROM [SAVX].[dbo].[Usuario] WHERE isnull(borrado,'N') = 'N' AND usuario = '$user' and password = '$password'");
